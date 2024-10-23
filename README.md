@@ -14,7 +14,8 @@ A scalable implementation of Tic-Tac-Toe featuring client-server architecture, c
 - [Usage](#-usage)
 - [Technical Implementation](#-technical-implementation)
 - [Project Structure](#-project-structure)
-- 
+
+  
 ## ✨ Features
 
 - Multiplayer support through client-server architecture
